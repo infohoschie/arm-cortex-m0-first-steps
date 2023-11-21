@@ -1,0 +1,8 @@
+*.o
+*.obj
+*.elf
+*.map
+*.s
+*.i
+.idea
+build*/
